@@ -9,7 +9,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/renzellaira/order-summary-component/tree/main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live](https://renzellaira.github.io/order-summary-component/)
 
 ## My process
 
